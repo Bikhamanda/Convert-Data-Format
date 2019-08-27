@@ -1,0 +1,8 @@
+id,nama,email,password,id_kota,sex
+1,Andi,Andi@andi.com,123456,1,{'Male'}
+2,Caca,Caca@caca.com,123456,2,{'Female'}
+3,Budi,Budi@budi.com,123456,1,{'Male'}
+4,Deni,Deni@deni.com,123456,3,{'Female'}
+5,Enno,Enno@enno.com,123456,1,{'Male'}
+6,Fani,"Fani@fani,id",123456,9,{'Female'}
+7,Galih,Galih@galih.id,123456,9,{'Male'}
